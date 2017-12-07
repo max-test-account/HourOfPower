@@ -18,3 +18,8 @@ Please commit your team's feedback regarding this session under your team's head
 * Placeholder 1
 * Placeholder 2
 * Placeholder 3
+
+### Team D
+* Placeholder 1
+* Placeholder 2
+* Placeholder 3
